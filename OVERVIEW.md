@@ -1,6 +1,6 @@
 # Overview
 
-3rin.gs is an online map of Middle Earth. The site is published as a fully static front-end from the `www/` directory on http://3rin.gs/.
+3rin.gs is an online map of Middle Earth. The site is published as a fully static front-end from the `www/` and `build/` directories on <http://3rin.gs/>.
 
 Most content is generated from spreadsheets, hand-drawn graphics, and SVG layouts, then composited with Python Imaging Library, Inkscape, and Gimp. Django templates are used to render articles and data-driven HTML.
 
